@@ -12,7 +12,7 @@
 
 | Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/30%20Days%20of%20Code/Day%2000-Hello%20World)
 |  1  | [Data Types](https://www.hackerrank.com/challenges/30-data-types)                                       |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/30%20Days%20of%20Code/Day%2001-Data%20Types)
 |  2  | [Operators](https://www.hackerrank.com/challenges/30-operators)                                         |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/30%20Days%20of%20Code/Day%2002-Operators)
 |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)      |   30   | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2003%20-%20Intro%20to%20Conditional%20Statements/Solution.java)  |
