@@ -1,0 +1,22 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+
+
+if __name__ == '__main__':
+    N = int(input())
+    for i in range(N):
+        s,s1,s2 = '','',''
+        s = str(input())    
+        for i in range(len(s)):
+            if i % 2 == 0:
+                s1 += s[i]
+            else:
+                s2 += s[i]
+
+        print(s1 + ' ' + s2)
