@@ -1,0 +1,21 @@
+#!/bin/python3
+
+import os
+import sys
+
+phoneBook ={}
+name =''
+if __name__ == '__main__':
+    N = int(input())
+    for i in range(N):
+        ip = input()
+        name,number = ip.split(' ')
+        phoneBook[name] = number   
+    
+    for i in range(N):
+        test = input()
+        if test in phoneBook:
+            print(test+'='+phoneBook[test])
+        else:
+            print('Not found')
+    
