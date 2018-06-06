@@ -1,0 +1,36 @@
+class Student(Person):
+    #   Class Constructor
+    #   
+    #   Parameters:
+    #   firstName - A string denoting the Person's first name.
+    #   lastName - A string denoting the Person's last name.
+    #   id - An integer denoting the Person's ID number.
+    #   scores - An array of integers denoting the Person's test scores.
+    #
+    # Write your constructor here
+    
+    def __init__(self, first_name, last_name, id_num, scores):
+        super().__init__(first_name, last_name, id_num)
+        self.scores = scores
+    
+
+
+    #   Function Name: calculate
+    #   Return: A character denoting the grade.
+    #
+    # Write your function here
+    def calculate(self):
+        import statistics
+        grade = statistics.mean(scores)
+        if grade < 40:
+            return 'T'
+        if grade < 55:
+            return 'D'
+        if grade < 70:
+            return 'P'
+        if grade < 80:
+            return 'A'
+        if grade < 90:
+            return 'E'
+        return 'O'
+    
