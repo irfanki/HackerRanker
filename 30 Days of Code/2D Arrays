@@ -1,0 +1,17 @@
+#!/bin/python
+
+import math
+import os
+import random
+import re
+import sys
+
+
+
+if __name__ == '__main__':
+    arr = []
+
+    for _ in xrange(6):
+        arr.append(map(int, raw_input().rstrip().split()))
+
+print(max([sum(arr[row][col:col+3]) + arr[row+1][col+1] + sum(arr[row+2][col:col+3]) for col in range(len(arr[0])-2) for row in range(len(arr)-2)]))
