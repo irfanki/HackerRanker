@@ -46,4 +46,4 @@
 
 | Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Array](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/30%20Days%20of%20Code/Day%2000-Hello%20World)
+|  0  | [Array](https://www.hackerrank.com/challenges/np-arrays/problem)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/Python/Array)
