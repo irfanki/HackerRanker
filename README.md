@@ -48,4 +48,4 @@
 | Sno |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  1  | [Array](https://www.hackerrank.com/challenges/np-arrays/problem)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/Python/Array)
-                            
+|  2  | [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape/problem)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/Python/Shape%20and%20Reshape)                           
