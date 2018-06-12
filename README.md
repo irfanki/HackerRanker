@@ -40,3 +40,10 @@
 |  25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)     |   30   | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2025%20-%20Running%20Time%20and%20Complexity/Solution.java)      |
 |  26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)                                   |   30   | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2026%20-%20Nested%20Logic/Solution.java)                         |
 |  27 | [Testing](https://www.hackerrank.com/challenges/30-testing)                                             |   30   | [Solution.java](https://github.com/rshaghoulian/HackerRank-solutions/blob/master/30%20Days%20of%20Code/Day%2027%20-%20Testing/Solution.java)                                |
+
+
+# Python
+
+| Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
+|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/30%20Days%20of%20Code/Day%2000-Hello%20World)
