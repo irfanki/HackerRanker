@@ -44,6 +44,6 @@
 
 # Python
 
-| Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
-|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Array](https://www.hackerrank.com/challenges/np-arrays/problem)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/Python/Array)
+                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
+:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+[Array](https://www.hackerrank.com/challenges/np-arrays/problem)                                    |   30   |[Solution.python](https://github.com/irfanki/HackerRanker/blob/master/Python/Array)
