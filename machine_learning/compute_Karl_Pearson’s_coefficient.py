@@ -10,16 +10,14 @@ y_mean = sum(y)/len(y)
 diff_x_mean = [(i - x_mean) for i in x]
 diff_y_mean = [(i - y_mean) for i in y]
 
-# Calculating standard deviation
-x_var = sum([(i - x_mean)**2 for i in x])
-y_var = sum([(i - y_mean)**2 for i in y])
-x_std = sqrt(x_var)
-y_std = sqrt(y_var)
+xx = sum([(i - x_mean)**2 for i in x])
+yy = sum([(i - y_mean)**2 for i in y])
 
 sum_diff = []
 for i in range(len(x)):
     sum_diff.append(diff_x_mean[i] * diff_y_mean[i])
 
-r = sum(sum_diff)/x_std * y_std
+r = sum(sum_diff)/sqrt(xx * yy)
 result = round(r, 3)
 print(result)
+
